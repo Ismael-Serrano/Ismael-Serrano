@@ -1,2 +1,43 @@
 theme: jekyll-theme-cayman
-title: Portfolio
+
+# Name of website
+title: Ismael Serrano
+
+# Short description of the site
+description: A brief portfolio of personal projects
+
+# Your name to show in the footer
+author: Ismael Serrano Loba
+
+# --- List of links in the navigation bar --- #
+# I dont know what this does yet but I will check it out soon 
+#navbar-links:
+ # About Me: "aboutme"
+ # Resources:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://deanattali.com"
+
+
+
+# --- Footer options --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
+social-network-links:
+  email: "ismaelserranoloba@gmail.com"
+  github: Rompelimbra
+  rss: true
+#  linkedin: daattali
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: true
+  vk: false
+
+
