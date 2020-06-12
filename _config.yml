@@ -9,6 +9,12 @@ description: Ismael Serrano Loba
 # Your name to show in the footer
 author: Ismael Serrano Loba
 
+defaults:
+-
+  scope:
+    path:""
+  values:  
+      layout: "page"
 
 
 
