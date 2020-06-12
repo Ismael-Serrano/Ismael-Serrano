@@ -14,7 +14,7 @@ defaults:
    scope:
      path:""
    values:  
-       theme: jekyll-theme-cayman
+       theme: minima
 
 
 
