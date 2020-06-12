@@ -17,3 +17,5 @@ author: Ismael Serrano Loba
 ###### this is the sixth time
 
 this is just text
+
+[to the next page](https://rompelimbra.github.io/second)
