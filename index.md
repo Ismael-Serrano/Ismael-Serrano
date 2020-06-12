@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 author: Ismael Serrano Loba
+layout: default
 ---
 
 
