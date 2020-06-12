@@ -10,11 +10,11 @@ description: Ismael Serrano Loba
 author: Ismael Serrano Loba
 
 defaults:
--
-  scope:
-    path:""
-  values:  
-      layout: "page"
+ -
+   scope:
+     path:""
+   values:  
+       layout: "page"
 
 
 
