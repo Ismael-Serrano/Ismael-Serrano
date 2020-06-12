@@ -1,5 +1,6 @@
 ---
 title: Buenos dias
+slug: Buenas noches
 ---
 
 
