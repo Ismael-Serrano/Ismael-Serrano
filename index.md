@@ -5,8 +5,8 @@ author: Ismael Serrano Loba
 
 
 ## Thought Box 
-####Python
-The purpose of this project is the storage and observation of the different thoughts that pop into our minds. The programme allows the user to drop a thought into a box by providing both, tag and content, for each thought. Then, this input is materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ size as they happen again. Size of the thoughts inside the box represents frequency of occurrence of the thoughts 
+#### Python
+The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively often.  The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts 
 
 # this is the first time
 
