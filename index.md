@@ -34,8 +34,8 @@ size as they happen again. Size of the thoughts inside the box represents the fr
 <hr>
 
 
-## Thought Box 
-#### _Python 2.7_
+## Email template generator
+#### _Excel 2016 - VBA_
 
 
 <img src="bandicam-2020-06-14-22-51-39-204.gif" alt="descarga">
