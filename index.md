@@ -3,7 +3,7 @@ title: Portfolio
 author: Ismael Serrano Loba
 ---
 
-
+<br>
 ## Thought Box 
 #### _Python 2.7_
 
