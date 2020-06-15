@@ -47,8 +47,8 @@ often.The programme allows the user to enter enter a thought by providing both t
 materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ 
 size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
 
-- [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
-- [GitHub](https://github.com/Rompelimbra/Rompelimbra.github.io)  
+- [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip) <pre>                </pre> - [GitHub](https://github.com/Rompelimbra/Rompelimbra.github.io)  
+ 
 
 
 [to the next page](https://rompelimbra.github.io/second)
