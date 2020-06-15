@@ -20,7 +20,7 @@ author: Ismael Serrano Loba
 #### _Python 2.7_
 
 
-<img src="bandicam-2020-06-14-22-51-39-204.gif" alt="descarga">
+<img src="bandicam-2020-06-15-02-47-31-387.gif" alt="descarga">
 
 The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
 often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
