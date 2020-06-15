@@ -16,8 +16,8 @@ author: Ismael Serrano Loba
 - [GitHub](https://github.com/Rompelimbra/Rompelimbra.github.io) 
 <p> <br> <br> <br> </p>
 
-## Thought Box 
-#### _Python 2.7_
+## Texax Hold'em opening selector
+#### _Excel 2016 - VBA_
 
 
 <img src="bandicam-2020-06-15-02-47-31-387.gif" alt="descarga">
