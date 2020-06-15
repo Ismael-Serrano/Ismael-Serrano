@@ -13,20 +13,39 @@ author: Ismael Serrano Loba
 The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
 often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
 materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ 
-size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts 
+size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
 
-# this is the first time
+- [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)         [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io) 
 
-## this is the second time
 
-### this is the third time
 
-#### this is the fourth time
+## Thought Box 
+#### _Python 2.7_
 
-##### this is the fifth time
 
-###### this is the sixth time
+<img src="bandicam-2020-06-14-22-51-39-204.gif" alt="descarga">
 
-this is just text
+The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
+often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
+materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ 
+size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
+
+- [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)         [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io) 
+
+
+
+## Thought Box 
+#### _Python 2.7_
+
+
+<img src="bandicam-2020-06-14-22-51-39-204.gif" alt="descarga">
+
+The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
+often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
+materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ 
+size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
+
+- [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)         [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io) 
+
 
 [to the next page](https://rompelimbra.github.io/second)
