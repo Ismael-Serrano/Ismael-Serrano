@@ -16,10 +16,8 @@ materialized into an ovaled shape that floats freely in the box. Users can both 
 size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
 
 - [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)         [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io) 
-<br>
-<br>
-<br>
-<br>
+<p> <br> <br> <br> <br> </p>
+
 ## Thought Box 
 #### _Python 2.7_
 
