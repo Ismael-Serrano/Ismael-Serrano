@@ -3,6 +3,10 @@ title: Ismael Serrano
 author: Ismael Serrano Loba
 ---
 
+### *Welcome to my personal webpage!* 
+<p style="text-align:justify;">This site contains a brief description of some of the projects I have been working on lately and which are still in progress. Feel free to download any of the programs or check them out on GitHub. Links are under the description of each program.</p>
+
+
 <p> <br> </p>
 ## Thought Box 
 #### _Python 2.7_
