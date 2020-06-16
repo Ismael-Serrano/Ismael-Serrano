@@ -8,7 +8,7 @@ author: Ismael Serrano Loba
 
 
 <p> <br> </p>
-## Thought Box 
+### *Thought Box* 
 #### _Python 2.7_
 
 
