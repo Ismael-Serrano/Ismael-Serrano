@@ -18,7 +18,7 @@ author: Ismael Serrano Loba
 
 - [Download ZIP file](https://github.com/Ismael-Serrano/Thought-Box/archive/master.zip)
 - [GitHub repository](https://github.com/Ismael-Serrano/Thought-Box.git) 
-<p> <br> <br> </p>
+<p> <br> </p>
 
 ## Texax Hold'em Starting hand selector
 #### _Excel 2016 - VBA_
@@ -30,7 +30,7 @@ author: Ismael Serrano Loba
 
 - [Download ZIP file](https://github.com/Ismael-Serrano/Texax-Hold-em-Starting-hand-selector/archive/master.zip)
 - [GitHub repository](https://github.com/Ismael-Serrano/Texax-Hold-em-Starting-hand-selector.git) 
-<p> <br> <br>  </p>
+<p> <br>  </p>
 
 ## Email template generator
 #### _Excel 2016 - VBA_
