@@ -38,7 +38,7 @@ size as they happen again. Size of the thoughts inside the box represents the fr
 #### _Excel 2016 - VBA_
 
 
-<img src="Gifs/bandicam-2020-06-16-15-54-19-248.gif" alt="Template_generator">
+<img src="Gifs/bandicam-2020-06-16-16-12-05-044.gif" alt="Template_generator">
 
 The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
 often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
