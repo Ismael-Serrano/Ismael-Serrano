@@ -24,8 +24,8 @@ author: Ismael Serrano Loba
 
 <p style="text-align:justify;">In Texas Hold'em Poker the hand dealt at the beginning of the game and the position of each player at the table is essential information  to decide one's next move. This Excel program provides a dynamic chart generator that guides the player as whether to fold, raise or call in the preflop round based on the starting hand, the position of the player at the table and the actions taken by previous players. </p>
 
-- [Download ZIP file](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
-- [GitHub repository](https://github.com/Rompelimbra/Rompelimbra.github.io) 
+- [Download ZIP file](https://github.com/Ismael-Serrano/Texax-Hold-em-Starting-hand-selector/archive/master.zip)
+- [GitHub repository](https://github.com/Ismael-Serrano/Texax-Hold-em-Starting-hand-selector.git) 
 <p> <br> <br>  </p>
 
 ## Email template generator
