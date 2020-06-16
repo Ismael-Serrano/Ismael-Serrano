@@ -10,7 +10,7 @@ author: Ismael Serrano Loba
 
 <img src="Gifs/bandicam-2020-06-14-22-51-39-204.gif" alt="Thought_Box">
 
-<p style="text-align:justify;">The objective of Thought Box is the observation of the different thoughts that pop into our minds very often. This application allows the user to drop a thought in the box by providing both tag and content for each thought. Users can edit their thoughts and increase or decrease their size as they happen again. Journaling thoughts, feelings and ideas along with visualizing how they grow when they take up part of our mental space can be a powerful tool of introspection. </p>
+<p style="text-align:justify;">The objective of Thought Box is the observation of the different thoughts that pop into our minds very often. This application allows the user to drop a thought in the box by providing both tag and content for each thought. Users can edit their thoughts and increase or decrease their thought's size as they happen again. Journaling thoughts, feelings and ideas along with visualizing how they grow when they take up part of our mental space can be a powerful tool of introspection. </p>
 
 - [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
 - [GitHub](https://github.com/Rompelimbra/Rompelimbra.github.io) 
