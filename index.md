@@ -12,8 +12,8 @@ author: Ismael Serrano Loba
 
 <p style="text-align:justify;">The objective of Thought Box is the observation of the different thoughts that pop into our minds very often. This application allows the user to drop a thought in the box by providing both tag and content for each thought. Users can edit their thoughts and increase or decrease their thought's size as they happen again. Journaling thoughts, feelings and ideas along with visualizing how they grow when they take up part of our mental space can be a powerful tool of introspection. </p>
 
-- [Download ZIP file](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
-- [GitHub repository](https://github.com/Rompelimbra/Rompelimbra.github.io) 
+- [Download ZIP file](https://github.com/Ismael-Serrano/Thought-Box/archive/master.zip)
+- [GitHub repository](https://github.com/Ismael-Serrano/Thought-Box.git) 
 <p> <br> <br> </p>
 
 ## Texax Hold'em Starting hand selector
