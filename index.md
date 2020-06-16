@@ -14,7 +14,7 @@ author: Ismael Serrano Loba
 
 - [Download ZIP file](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
 - [GitHub repository](https://github.com/Rompelimbra/Rompelimbra.github.io) 
-<p> <br> <br> <br> </p>
+<p> <br> <br> </p>
 
 ## Texax Hold'em Starting hand selector
 #### _Excel 2016 - VBA_
@@ -26,7 +26,7 @@ author: Ismael Serrano Loba
 
 - [Download ZIP file](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
 - [GitHub repository](https://github.com/Rompelimbra/Rompelimbra.github.io) 
-<p> <br> <br> <br> </p>
+<p> <br> <br>  </p>
 
 ## Email template generator
 #### _Excel 2016 - VBA_
