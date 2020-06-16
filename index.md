@@ -34,10 +34,7 @@ author: Ismael Serrano Loba
 
 <img src="Gifs/bandicam-2020-06-16-16-12-05-044.gif" alt="Template_generator">
 
-The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
-often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
-materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ 
-size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts
+<p style="text-align:justify;"> The idea behind this project is the automation of email writing, with the aim to increase productivity in a customer service department of an e-commerce business.  As it is shown in the GIF above, this program generates email templates that can be filled in automatically. The user only has to select some pre-set options from the drop-down menus to load the right template and fill in the highlighted fields to the left of the drop-down menus. </p>
 
 - [Download Zip File](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip) <pre>                </pre> - [GitHub](https://github.com/Rompelimbra/Rompelimbra.github.io)  
  
