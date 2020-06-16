@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Ismael Serrano
 author: Ismael Serrano Loba
 ---
 
@@ -8,7 +8,7 @@ author: Ismael Serrano Loba
 #### _Python 2.7_
 
 
-<img src="Gifs/bandicam-2020-06-14-22-51-39-204.gif" alt="descarga">
+<img src="Gifs/bandicam-2020-06-14-22-51-39-204.gif" alt="Thought_Box">
 
 <p style="text-align:justify;">The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is materialized into an ovaled shape that floats freely in the box. Users can both edit their thoughts and increase or decrease thoughts´ size as they happen again. Size of the thoughts inside the box represents the frequency of occurrence of the thoughts </p>
 
@@ -20,7 +20,7 @@ author: Ismael Serrano Loba
 #### _Excel 2016 - VBA_
 
 
-<img src="Gifs/bandicam-2020-06-15-02-47-31-387.gif" alt="descarga">
+<img src="Gifs/bandicam-2020-06-15-02-47-31-387.gif" alt="Poker_Gif">
 
 The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
 often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
@@ -38,7 +38,7 @@ size as they happen again. Size of the thoughts inside the box represents the fr
 #### _Excel 2016 - VBA_
 
 
-<img src="Gifs/bandicam-2020-06-14-22-51-39-248.gif" alt="descarga">
+<img src="Gifs/bandicam-2020-06-16-15-54-19-248.gif" alt="Template_generator">
 
 The purpose of this project is the storage and observation of the different thoughts that pop into our minds and that happen relatively
 often.The programme allows the user to enter enter a thought by providing both tag and content for each thought. Then, this input is 
