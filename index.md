@@ -36,8 +36,8 @@ author: Ismael Serrano Loba
 
 <p style="text-align:justify;"> The idea behind this project is the automation of email writing, with the aim to increase productivity in a customer service department of an e-commerce business.  As it is shown in the GIF above, this program generates email templates that can be filled in automatically. The user only has to select some pre-set options from the drop-down menus to load the right template and fill in the highlighted fields to the left of the drop-down menus. </p>
 
-- [Download ZIP file](https://github.com/Rompelimbra/Rompelimbra.github.io/archive/master.zip)
-- [GitHub repository](https://github.com/Rompelimbra/Rompelimbra.github.io)  
+- [Download ZIP file](https://github.com/Ismael-Serrano/Email-template-generator/archive/master.zip)
+- [GitHub repository](https://github.com/Ismael-Serrano/Email-template-generator.git)  
  <p> <br> <br> </p>
 
 
